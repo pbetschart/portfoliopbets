@@ -13,6 +13,7 @@ Nestas áreas desenvolvi os seguintes projetos:
 * Automação de processos produtivos;
 * Implementação de módulos do sistema SAP.
 
+
 * [LinkedIn](https://www.linkedin.com/in/paulobetschart/)
 * [Blog](http://helvetiagon.ai)
 
