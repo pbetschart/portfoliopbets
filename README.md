@@ -26,7 +26,7 @@ Nos links a seguir você poderá obter mais detalhes:
 
 ### Sobre Mim:
 
-Sou Paulo Fernando Betschart, Engenheiro Mecatrônico, autor do *blog* [Helvetia Go On](http://helvetiagon.ai), com foco em Eletrônica de Potência, Vision Computer, Robótica, Data Science e Python.
+Sou Paulo Fernando Betschart, Engenheiro Mecatrônico, autor do *site* [Helvetia Go On](http://helvetiagon.ai), com foco em Eletrônica de Potência, Vision Computer, Robótica, Data Science e Python.
 
 * Graduação em Engenharia Mecatrônica pela USF.
 * Especialização em Mecatrônica pela UNICAMP.
