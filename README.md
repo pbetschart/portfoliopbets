@@ -36,5 +36,6 @@ Domínio de ferramentas como SAP (Key User), PVsyst (usinas fotovoltaicas), Auto
 
 Grande entusiasta da automação/robótica, energias renováveis e ferramentas de inteligência artificial para solucionar as demandas de nossa sociedade. 
 
-* Graduação em Engenharia Mecatrônica pela USF.
 * Especialização em Mecatrônica pela UNICAMP.
+* Graduação em Engenharia Mecatrônica pela USF.
+
