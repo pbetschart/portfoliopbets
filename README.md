@@ -18,7 +18,7 @@ Nestas áreas desenvolvi os seguintes projetos:
 Nos links a seguir você poderá obter mais detalhes:
 
 * [LinkedIn](https://www.linkedin.com/in/paulobetschart/)
-* [Blog](http://helvetiagon.ai)
+* [Portfólio](http://helvet.io)
 
 ## Projetos de Data Science:
 
