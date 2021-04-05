@@ -22,12 +22,13 @@ Nos links a seguir você poderá obter mais detalhes:
 
 ## Projetos de Data Science:
 
-* **PROJETO 1:** [*Deep Learning* em Classificação de Roupas](https://tinyurl.com/y9xslmlb)
+* **PROJETO 2:** [*Deep Learning* em Classificação de Roupas](https://tinyurl.com/y9xslmlb)
+* **PROJETO 1:** [Análise Exploratória - Dados Climáticos de Marte](https://github.com/pbetschart/portfoliopbetschart/blob/8822d7b474ab3eed604e05b5b91f2930bae836fd/Dados%20Clim%C3%A1ticos%20Marte_R01.ipynb)
 ---
 
 ### Sobre Mim:
 
-Engenheiro de Automação e Sistemas, com atuação em soluções voltadas para o setor fotovoltaico, integrando eletrônica de potência, deep learning, visão computacional e robótica.
+Engenheiro de Automação e Sistemas, com atuação em soluções voltadas para o setor fotovoltaico, integrando eletrônica de potência, *deep learning*, visão computacional e robótica.
 
 Experiência em projetos como atualização de setup para linhas de produção (Tempos e Métodos - Bosch), Arena da Amazônia (padrão FIFA) e Templo Assembléia de Deus (automação, áudio e vídeo), implementação de norma ISO 14.001, SAP, manutenção e melhorias em equipamentos em linha de produção e membro da equipe Power no projeto ITA Sat.
 Participo de projetos como instalações fotovoltaicas (da microgeração a usinas solares) para clientes residenciais e indústrias (como a Gerdau) e do desenvolvimento de soluções para os processos do mercado fotovoltaico.
